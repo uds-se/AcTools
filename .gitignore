@@ -1,0 +1,21 @@
+#Gradle
+.gradle
+gradle.properties
+
+#IntelliJ project config
+/.idea/**
+**/*.iml
+**/*.iws
+/local.properties
+bee/.idea
+/build
+**/gen
+/log
+/target
+/out
+
+**/release.keystore
+**/google-services.json
+
+#Mac
+.DS_Store
